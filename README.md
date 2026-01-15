@@ -4,7 +4,23 @@
   <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo" width="200"/>
 </p>
 
-Deploy a fully functional **on-premises Active Directory environment** inside **Microsoft Azure**, complete with domain controllers, client machines, PowerShell automation, and Group Policy management.  
+**Project Overview**
+
+Hands-on Active Directory lab deployed entirely within Microsoft Azure virtual machines. Demonstrates practical skills in domain controller setup, client integration, PowerShell automation, and group policy management.
+
+**Objective**
+
+Gain experience deploying and managing a functional Active Directory environment in the cloud, simulating real-world IT support and system administration tasks.
+
+**What This Lab Covers**
+
+- Preparing Azure infrastructure including VMs, networking, and IP configuration
+
+- Deploying Active Directory Domain Services and joining client machines to the domain
+
+- Automating user and group creation using PowerShell scripts
+
+- Configuring and managing users, groups, and policies via Group Policy Objects (GPOs)  
 
 ---
 
