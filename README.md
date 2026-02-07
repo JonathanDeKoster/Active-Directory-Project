@@ -94,7 +94,9 @@ Key Steps / Highlights:
 <details>
 <summary>📸 Click to view Step 1 screenshots</summary>
 
-<img width="1600" src="https://github.com/user-attachments/assets/d55772b5-487e-4cb0-acfe-c1ade1fe2298" />  
+<img width="1600" height="900" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/3e188112-bc04-4b11-b2cc-7d4e3e3e102b" />
+  
+<img width="1600" height="900" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/4d90b412-bf55-433f-b0d4-9d17fccccd5a" />
 
 ---
 
