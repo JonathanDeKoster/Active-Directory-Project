@@ -96,35 +96,28 @@ Key Steps / Highlights:
 
 <img width="1600" height="900" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/3e188112-bc04-4b11-b2cc-7d4e3e3e102b" />
   
-<img width="1600" height="900" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/4d90b412-bf55-433f-b0d4-9d17fccccd5a" />
 
 ---
-
-<img width="1600" src="https://github.com/user-attachments/assets/3dfa1612-4449-4f86-95ba-87b924cb2b47" />  
-
----
-
-<img width="1600" src="https://github.com/user-attachments/assets/bd6f8a1c-9a38-48cd-8086-4e52bd1a7631" />  
+<img width="1600" height="900" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/448988df-58d8-4f89-816b-4efebca00432" />
 
 ---
-
-<img width="1600" src="https://github.com/user-attachments/assets/24fa2734-a2e1-416f-8314-adfe52de0e5f" />  
-
----
-
-<img width="1600" src="https://github.com/user-attachments/assets/060bacae-a942-4499-83eb-b498f42e66ca" />  
+<img width="1600" height="900" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/fb3548d5-e406-41b7-9121-8739226a105f" />
+ 
 
 ---
-
-<img width="1600" src="https://github.com/user-attachments/assets/a6517164-d384-4a6d-882f-44ca272329b3" />  
-
----
-
-<img width="1600" src="https://github.com/user-attachments/assets/23c9d5cd-1b7d-424b-9cdb-6765eaf298a1" />  
+<img width="1600" height="900" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/2ad1e1f8-cb84-4be0-8d6a-c6edb1c3b5e6" />
 
 ---
+<img width="1600" height="900" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/f274fa19-44e6-46f4-892e-cf62db78b2f0" /> 
 
-<img width="1600" src="https://github.com/user-attachments/assets/2019735b-1b48-42f4-a2b5-ec3e77d792c8" />  
+---
+<img width="1600" height="900" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/65a4ee63-101d-402a-a10f-ba42249476ce" />
+
+---
+<img width="1600" height="900" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/0cf7a364-eed0-4970-b1cd-500481af57a3" />
+
+---
+<img width="1600" height="900" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/cd6f4f7e-9b1b-47b6-9129-6e1efb73b1c4" /> 
 
 </details> 
 
@@ -140,31 +133,28 @@ Key Steps / Highlights:
 <details>
 <summary>📸 Click to view Step 2 screenshots</summary>
 
-<img width="1600" src="https://github.com/user-attachments/assets/5ee9be30-733d-48ec-9f06-9015fffe9d38" />  
+<img width="1600" height="900" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/08a80dab-cbd8-4ea5-9614-b295b4cf5060" />
+
+---
+ 
+<img width="1600" height="900" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/4eb1a98d-0839-42c7-ba1f-25c82374f044" />
+
+---
+<img width="1600" height="900" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/53231c82-a39d-4abd-979d-03d6adf5783d" />
 
 ---
 
-<img width="1600" src="https://github.com/user-attachments/assets/6888f45c-29e9-46f3-a149-eced6b29cc5a" />  
+<img width="1600" height="900" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/579a6e86-d202-41e1-b069-ef4a04b6c608" />
 
 ---
 
-<img width="1600" src="https://github.com/user-attachments/assets/291f86d2-4081-433e-8f10-b31a1aa74bb6" />  
+<img width="1600" height="900" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/306a9b14-2c57-4945-93ac-f457fbe9cbce" />
 
----
+---  
+<img width="1600" height="900" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/7578429a-f692-4ac3-93d0-d516e809368d" />
 
-<img width="1600" src="https://github.com/user-attachments/assets/894bf2c8-733d-40c4-ad89-e47e59bcc14f" />  
-
----
-
-<img width="1600" src="https://github.com/user-attachments/assets/dce8cb50-2e26-41e8-b4da-ad472b056b88" />  
-
----
-
-<img width="1600" src="https://github.com/user-attachments/assets/9524fabb-980c-451d-98b5-54801c363585" />  
-
----
-
-<img width="1600" src="https://github.com/user-attachments/assets/de0efa17-116a-419b-ba6f-8155c4cb942e" />  
+---  
+<img width="1600" height="900" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/940d10b9-aa91-4192-8142-9a2da11d337a" />
 
 </details>  
 
