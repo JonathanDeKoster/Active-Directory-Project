@@ -94,7 +94,7 @@ Key Steps / Highlights:
 <details>
 <summary>📸 Click to view Step 1 screenshots</summary>
 
-<img width="1600" src="https://raw.githubusercontent.com/user/attachments/main/sets/d55772b5-487e-4cb0-acfe-c1ade1fe2298.png" />  
+<img width="1600" src="https://github.com/user-attachments/assets/d55772b5-487e-4cb0-acfe-c1ade1fe2298" />  
 
 ---
 
