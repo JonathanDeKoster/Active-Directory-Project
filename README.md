@@ -20,7 +20,19 @@ Gain experience deploying and managing a functional Active Directory environment
 
 - Automating user and group creation using PowerShell scripts
 
-- Configuring and managing users, groups, and policies via Group Policy Objects (GPOs)  
+- Configuring and managing users, groups, and policies via Group Policy Objects (GPOs)
+
+
+**Learning Outcomes**
+- Built an Active Directory lab in Azure from scratch.
+
+- Configured networking, DNS, and IP settings for domain environments.
+
+- Automated user creation and management using PowerShell.
+
+- Applied Group Policies for security and account management.
+
+- Gained hands-on experience troubleshooting AD logs and security events.
 
 ---
 
@@ -32,9 +44,8 @@ Gain experience deploying and managing a functional Active Directory environment
    - [Step 1: Prepare Azure Infrastructure](#step-1-prepare-azure-infrastructure)  
    - [Step 2: Deploy Active Directory](#step-2-deploy-active-directory)  
    - [Step 3: Automate User Creation](#step-3-automate-user-creation)  
-   - [Step 4: Group Policy & Account Management](#step-4-group-policy--account-management)  
-5. [Learning Outcomes](#learning-outcomes)  
-6. [Code & Scripts](#code--scripts)  
+   - [Step 4: Group Policy & Account Management](#step-4-group-policy--account-management)   
+5. [Code & Scripts](#code--scripts)  
 
 ---
 
@@ -225,22 +236,6 @@ Key Steps / Highlights:
 <img width="1600" height="900" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/9a2fe2e2-806c-46b6-8556-6c8ab960d6b1" />
 
 </details>  
-
-
----
-
-
-
-### ***Learning Outcomes***
-- Built an Active Directory lab in Azure from scratch.
-
-- Configured networking, DNS, and IP settings for domain environments.
-
-- Automated user creation and management using PowerShell.
-
-- Applied Group Policies for security and account management.
-
-- Gained hands-on experience troubleshooting AD logs and security events.
 
 
 ---
