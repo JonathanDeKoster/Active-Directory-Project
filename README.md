@@ -5,6 +5,19 @@
 
 # Configuring On-Premises Active Directory within Azure VMs
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Technologies & Tools](#technologies--tools)
+3. [Deployment & Configuration](#deployment--configuration)
+
+   * [Step 1: Prepare Azure Infrastructure](#step-1-prepare-azure-infrastructure)
+   * [Step 2: Deploy Active Directory](#step-2-deploy-active-directory)
+   * [Step 3: Automate User Creation](#step-3-automate-user-creation)
+   * [Step 4: Group Policy & Account Management](#step-4-group-policy--account-management)
+4. [Code & Scripts](#code--scripts)
+5. [Screenshots](#screenshots)
+
 ## Project Overview
 
 Hands-on Active Directory lab deployed within Microsoft Azure virtual machines. This project demonstrates domain controller deployment, DNS configuration, client domain integration, PowerShell user automation, Group Policy management, and basic Active Directory troubleshooting.
@@ -26,21 +39,6 @@ Build and manage a functional Active Directory environment using Azure virtual m
 * Account lockout and account management
 * Event Viewer and security log analysis
 * Remote Desktop Protocol (RDP)
-
----
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Technologies & Tools](#technologies--tools)
-3. [Deployment & Configuration](#deployment--configuration)
-
-   * [Step 1: Prepare Azure Infrastructure](#step-1-prepare-azure-infrastructure)
-   * [Step 2: Deploy Active Directory](#step-2-deploy-active-directory)
-   * [Step 3: Automate User Creation](#step-3-automate-user-creation)
-   * [Step 4: Group Policy & Account Management](#step-4-group-policy--account-management)
-4. [Code & Scripts](#code--scripts)
-5. [Screenshots](#screenshots)
 
 ---
 
