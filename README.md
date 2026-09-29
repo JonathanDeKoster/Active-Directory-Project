@@ -7,16 +7,16 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Technologies & Tools](#technologies--tools)
-3. [Deployment & Configuration](#deployment--configuration)
+ [Project Overview](#project-overview)
+ [Technologies & Tools](#technologies--tools)
+ [Deployment & Configuration](#deployment--configuration)
 
    * [Step 1: Prepare Azure Infrastructure](#step-1-prepare-azure-infrastructure)
    * [Step 2: Deploy Active Directory](#step-2-deploy-active-directory)
    * [Step 3: Automate User Creation](#step-3-automate-user-creation)
    * [Step 4: Group Policy & Account Management](#step-4-group-policy--account-management)
-4. [Code & Scripts](#code--scripts)
-5. [Screenshots](#screenshots)
+ [Code & Scripts](#code--scripts)
+ [Screenshots](#screenshots)
 
 ## Project Overview
 
